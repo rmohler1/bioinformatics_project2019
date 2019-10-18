@@ -1,0 +1,13 @@
+proteome 3,3 hsp70 matches,Presence of mcrA gene
+proteome 5,2 hsp70 matches,Presence of mcrA gene
+proteome 7,2 hsp70 matches,Presence of mcrA gene
+proteome 15,1 hsp70 matches,Presence of mcrA gene
+proteome 16,1 hsp70 matches,Presence of mcrA gene
+proteome 24,2 hsp70 matches,Presence of mcrA gene
+proteome 38,1 hsp70 matches,Presence of mcrA gene
+proteome 39,1 hsp70 matches,Presence of mcrA gene
+proteome 42,3 hsp70 matches,Presence of mcrA gene
+proteome 44,1 hsp70 matches,Presence of mcrA gene
+proteome 45,3 hsp70 matches,Presence of mcrA gene
+proteome 48,1 hsp70 matches,Presence of mcrA gene
+proteome 50,3 hsp70 matches,Presence of mcrA gene
