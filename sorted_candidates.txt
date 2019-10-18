@@ -1,0 +1,14 @@
+ProteomeID mcrA hsp70
+proteome50: 3 Presence of mcrAgene
+proteome45: 3 Presence of mcrAgene
+proteome42: 3 Presence of mcrAgene
+proteome3: 3 Presence of mcrAgene
+proteome7: 2 Presence of mcrAgene
+proteome5: 2 Presence of mcrAgene
+proteome24: 2 Presence of mcrAgene
+proteome48: 1 Presence of mcrAgene
+proteome44: 1 Presence of mcrAgene
+proteome39: 1 Presence of mcrAgene
+proteome38: 1 Presence of mcrAgene
+proteome16: 1 Presence of mcrAgene
+proteome15: 1 Presence of mcrAgene
